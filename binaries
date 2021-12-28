@@ -1,7 +1,0 @@
-rm cjavabin.zip
-rm cjavabin.tar
-tar -cvf cjavabin.tar *.html *.jar *.gif
-zip cjavabin *
-zip -d cjavabin cjavabin.tar
-zip -d cjavabin binaries.txt
-zip -d cjavabin binaries
