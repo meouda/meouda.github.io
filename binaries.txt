@@ -1,0 +1,3 @@
+tar -cvf cjavabin.tar *.html *.jar *.gif
+zip cjavabin *
+zip -d cjavabin cjavabin.tar
